@@ -1,0 +1,22 @@
+
+//Utilities
+@import "../styles/utilities/color";
+
+//Base
+@import "../styles/base/reset";
+
+//Blocks
+@import "../styles/blocks/header";
+@import "../styles/blocks/headermobile";
+@import "../styles/blocks/main";
+@import "../styles/blocks/footer";
+
+
+
+
+.bold{
+    font-weight: bold;
+}
+.blanco{
+    color:$blanco;
+}
